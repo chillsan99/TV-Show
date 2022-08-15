@@ -13,12 +13,13 @@ function App() {
       <Nav>
         <GiJapaneseBridge />
         <Logo to={"/"}>WeebHut</Logo>
-        <h3>Author: chillsan99 </h3>
       </Nav>
       <Search />
       <Category />
       <Pages />
+      <h3>Author: chillsan99</h3>
       </BrowserRouter>
+        
     </div>
   );
 }
