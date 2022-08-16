@@ -1,5 +1,4 @@
-# Getting Started with Create React App
-TV-Show-App
+## TV-Show-App
 This is a multiple page web application for Anime Television Shows. I built this as a way for me and my friends to look up various shows without having to use an extensive wbesite such as MyAnimeList, or AniList and to be able to see  popular shows along with ratings of the shows before even having to get into the show information to see what people have rated a show. 
 
 This is built primarily with React (and as a result is my first React project) as well as elements of CSS. 
