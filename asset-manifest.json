@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TV-Show/static/css/main.048d0bfc.css",
+    "main.js": "/TV-Show/static/js/main.a01c1bc5.js",
+    "index.html": "/TV-Show/index.html",
+    "main.048d0bfc.css.map": "/TV-Show/static/css/main.048d0bfc.css.map",
+    "main.a01c1bc5.js.map": "/TV-Show/static/js/main.a01c1bc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.048d0bfc.css",
+    "static/js/main.a01c1bc5.js"
+  ]
+}
