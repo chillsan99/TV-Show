@@ -1,70 +1,22 @@
 # Getting Started with Create React App
+TV-Show-App
+This is a multiple page web application for Anime Television Shows. I built this as a way for me and my friends to look up various shows without having to use an extensive wbesite such as MyAnimeList, or AniList and to be able to see  popular shows along with ratings of the shows before even having to get into the show information to see what people have rated a show. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is built primarily with React (and as a result is my first React project) as well as elements of CSS. 
+Since I was advised so many times to build a bigger project with React, and I didn't want to do anything boring for my first project, I decided that messing around with API's and building something more extensive for my friends would be the best adventure into building a project. 
 
-## Available Scripts
+The tutorial that I followed was [React Crash Course- Build A Full Recipe App Tutorial](https://www.youtube.com/watch?v=xc4uOzlndAk&t=4820s&ab_channel=DevEd) by DevEd! 
 
-In the project directory, you can run:
+Once uploaded, I plan to build off of this project, and add more features, such as popular and highly rated mangas as well, and a more extensive Genre category. 
 
-### `npm start`
+This also uses Jikan's RESTful version of the API. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Usage
 
-### `npm test`
+Currently this project is using Jikan's version 3 API. The problem with this version is that most of the titles of the anime shows are in romaji (Romanized Japanese). Once version 4 is updated and has a lot of the kinks worked out, I will move it to that version where it will be easier to search by english titles. I apologize for this issue beforehand. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To find a show, or genre, click the buttons at the top, or use the search bar to search for a specific show. 
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contributing
+If you have any ideas how I can expand this website and turn it into a cooler website, please do not hesitate to let me know. I'd love to grow this website into a bigger more usable project for everyone. 
